@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\platzi azure\\PlatziWeb\\PlatziWeb.csproj": {}
+    "C:\\platzi azure\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj": {}
   },
   "projects": {
-    "C:\\platzi azure\\PlatziWeb\\PlatziWeb.csproj": {
+    "C:\\platzi azure\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\platzi azure\\PlatziWeb\\PlatziWeb.csproj",
+        "projectUniqueName": "C:\\platzi azure\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj",
         "projectName": "PlatziWeb",
-        "projectPath": "C:\\platzi azure\\PlatziWeb\\PlatziWeb.csproj",
+        "projectPath": "C:\\platzi azure\\SitioWebPlatzi\\PlatziWeb\\PlatziWeb.csproj",
         "packagesPath": "C:\\Users\\mc113038\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi azure\\PlatziWeb\\obj\\",
+        "outputPath": "C:\\platzi azure\\SitioWebPlatzi\\PlatziWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
